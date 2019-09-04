@@ -1,4 +1,4 @@
- html,body{
+html,body{
                 height: 100%;
                 
             }
@@ -14,7 +14,7 @@
             #contenedor{
                 height: 100%;
                 box-sizing: border-box;
-                border-bottom: 30px solid #0d0039;
+                border-bottom: 30px solid #4d0039;
                 position:relative;
                 overflow: hidden;
             }

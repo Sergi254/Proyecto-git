@@ -1,4 +1,4 @@
-  window.onload=inicio;
+window.onload=inicio;
             var x,alto_navegador,alto_nave,ancho_navegador,ancho_nave
             var y=-20;
             var crono=setInterval(bajar,600);
