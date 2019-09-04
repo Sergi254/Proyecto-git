@@ -1,0 +1,25 @@
+ html,body{
+                height: 100%;
+                
+            }
+            body{
+                margin: 0;
+                background-image: url(img/fondo.jpg);
+                background-size: cover;
+            }
+            img{
+                max-width: 100%;
+                vertical-align: top;
+            }
+            #contenedor{
+                height: 100%;
+                box-sizing: border-box;
+                border-bottom: 30px solid #4d0039;
+                position:relative;
+                overflow: hidden;
+            }
+            #nave{
+                width: 150px;
+                position: absolute;
+                bottom: -20px;
+            }
